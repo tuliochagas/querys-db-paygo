@@ -1,0 +1,4 @@
+topic_name: request.MerchantContextStream
+json_message para request.MerchantContextStream: [\"931d28c8-d6d4-388f-82e6-44d9b349df35\"]
+topic_name: request.MerchantContextStreamDocumentNumber
+json_message para request.MerchantContextStreamDocumentNumber [\"99.999.999/9999-99\"]
